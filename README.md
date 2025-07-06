@@ -42,16 +42,16 @@ This is one of my early Python-based data analysis projects and showcases founda
 ## 📂 Project Structure
 ```
 titanic-eda/
-├── data/ # Dataset (if included or referenced)
+├── Titanic.csv # Titanic Dataset
 ├── titanic.ipynb # Jupyter notebook with all analysis
-└── README.md # Project summary and instructions
+└── README.md # Summary and information about the project
 ```
 
 ---
 
 ## 📌 Status
 
-✅ **Completed** — Core EDA, visualisations, and insights are complete.
+✅ **Completed**
 
 ---
 
