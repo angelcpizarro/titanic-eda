@@ -43,7 +43,7 @@ This is one of my early Python-based data analysis projects and showcases founda
 ```
 titanic-eda/
 ├── Titanic.csv # Titanic Dataset
-├── titanic.ipynb # Jupyter notebook with all analysis
+├── titanic.ipynb # Jupyter notebook with the exploratory data analysis
 └── README.md # Summary and information about the project
 ```
 
