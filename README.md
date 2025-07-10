@@ -2,7 +2,7 @@
 
 This project explores the famous Titanic dataset to understand the factors that influenced passenger survival. Through data cleaning, exploratory analysis, and visualisation, it investigates how demographics and passenger characteristics affected the likelihood of survival.
 
-This is one of my early Python-based data analysis projects and showcases foundational skills in data wrangling, exploratory data analysis (EDA), and data storytelling.
+This is one of my early Python-based data analysis projects and showcases foundational skills in data manipulation, exploratory data analysis (EDA), and data storytelling.
 
 ---
 
